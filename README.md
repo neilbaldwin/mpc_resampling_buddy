@@ -11,6 +11,7 @@ I figured out that while you can't physically trigger a single pad on the unit t
 
 I then got to thinking - what's the simplest, most convenient way to trigger a single pad via external MIDI. So I hooked up my Android phone via USB-C (MIDI) and created this Touch OSC project. MPC Sample Resampling Buddy
 
+<img src="impc_sample_resampling_buddy.png" width="300">
 ![](mpc_sample_resampling_buddy.png)
 
 ## MPC Sample Resampling Buddy
